@@ -1,5 +1,5 @@
 # atlassian-plantyourcode
-I wrote the solutions to these coding challenges made by [Atlassian](https://www.atlassian.com/) in an effort to help make a positive change in our wider community.</br>
+I wrote the solutions to these Javascript coding challenges which were created by [Atlassian](https://www.atlassian.com/) in an effort to help make a positive change in our wider community.</br>
 These are available to complete and make a positve change here -> [PlantYourCode](https://plantyourcode.com)
 
 ### Background Info

@@ -10,3 +10,7 @@ The charities available for donation via PlantYourCode are:
 - [The Global FoodBanking Network](https://www.foodbanking.org/take-action/)
 
 Get involved and grow your plants, every contribution helps!  :smile:
+
+
+### My Garden!
+![RedKaleGrower68](https://github.com/jn011/atlassian-plantyourcode/blob/master/RedKaleGrower68.png)

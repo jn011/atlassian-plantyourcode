@@ -13,4 +13,5 @@ Get involved and grow your plants, every contribution helps!  :smile:
 
 
 ### My Garden!
-View my plot [here](https://plantyourcode.com/plot/RadKaleGrower68)
+View my plot [here](https://plantyourcode.com/plot/RadKaleGrower68)</br>
+![Plot](https://github.com/jn011/atlassian-plantyourcode/blob/master/RedKaleGrower68.png)
